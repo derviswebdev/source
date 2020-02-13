@@ -1,0 +1,59 @@
+body{
+    font-size: 20px;
+    font-family: Montserrat;
+    background-color: #ecf0f1;
+}
+h1{
+    text-align: center;
+    color: #3498db;
+}
+.oblasti{
+    text-align: center;
+    margin: 25px 0;
+}
+.spec:hover{
+    cursor: pointer;
+    transition: .4s ease-in-out;
+    background-color: #0fbcf9;
+}
+#air{
+    border: 1px solid black;
+    width: 350px;
+    padding: 15px 25px;
+    display: inline-block;
+    margin: 10px 0;
+}
+#air a,#ob2 a, #dige a,#ob4 a, #sofd a{
+    text-decoration: none;
+    color: black;
+}
+#ob2{
+    border: 1px solid black;
+    width: 350px;
+    padding: 15px 25px;
+    display: inline-block;
+    margin: 10px 0;
+}
+#dige{
+    border: 1px solid black;
+    width: 350px;
+    padding: 15px 25px;
+    display: inline-block;
+    margin: 10px 0;
+}
+#ob4{
+    border: 1px solid black;
+    width: 350px;
+    padding: 15px 25px;
+    display: inline-block;
+    margin: 10px 0;
+}
+#sofd{
+    border: 1px solid black;
+    width: 350px;
+    padding: 15px 25px;
+    display: inline-block;
+    margin: 10px 0;
+}
+
+
